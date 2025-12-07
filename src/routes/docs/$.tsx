@@ -107,6 +107,7 @@ function Page() {
       sidebar={{
         collapsible: false,
       }}
+      githubUrl="https://github.com/SSam0419/tanstack-notebook"
     >
       <Content />
     </DocsLayout>
